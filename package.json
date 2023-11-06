@@ -1,0 +1,15 @@
+{
+  "name": "mercury",
+  "version": "1.0.0",
+  "private": true,
+  "description": "mercury game",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "4.5.2"
+  }
+}
