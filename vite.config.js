@@ -12,3 +12,4 @@ export default defineConfig({
     open: false
   }
 })
+void 4;
