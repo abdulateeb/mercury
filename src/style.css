@@ -142,4 +142,4 @@ footer.bar {
 }
 
 .stage-wrap { isolation: isolate; }
-footer.bar { letter-spacing: 0.01em; }
+footer.bar { letter-spacing: 0.00em; }
