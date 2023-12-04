@@ -140,6 +140,3 @@ footer.bar {
   gap: 8px;
   flex-wrap: wrap;
 }
-
-.stage-wrap { isolation: isolate; }
-footer.bar { letter-spacing: 0.00em; }
